@@ -1,0 +1,468 @@
+@media only screen and (max-width: 578px) {
+    .p-header{
+        font-size: 0px!important;
+    }
+    .navbar-light .navbar-toggler{
+        margin: 30px 0 15 245px!important;
+    }
+    .boxroom1{
+        background-size: 510px;
+        background:no-repeat;
+        background-image: url("https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-home-img01.jpg")
+    }
+    .text{
+        font-size: 14px;
+    }
+    .p{
+        font-size: 14px;
+    }
+    .booknow{
+        width: 100%;
+        padding: 14px 26px;
+        background: transparent;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        border-radius: 5px;
+        border: 2px solid #6d6b6a;
+    }
+    .navbar{
+        padding: 20px 0px!important;
+    }
+}
+@media only screen and (min-width: 782px) {
+    .bgimgvideo{
+        padding: 230px 0px;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-image: url('https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-content-bg02.jpg');
+    }
+    .navbar{
+    padding: 0px;
+    }
+    .booknow{
+        width: 100%;
+        padding: 14px 26px;
+        background: transparent;
+        text-align: center;
+        text-decoration: none;
+        color:white;
+        border-radius: 5px;
+        border: 2px solid #6d6b6a;
+        display: inline-block;
+    }
+}
+.full{
+    padding: -6px;
+    font-size:34px;
+}
+.iconbody{
+    padding: 14px 20px;
+    background: #3458f7;
+    color: white;
+    border-radius: 8px;
+    position: fixed;
+    bottom: 25px;
+    right:30px;
+}
+.iconbody:hover{
+    background: black;
+    transition: .3s;
+}
+.iconbody2{
+    padding: 27px;
+    background: white;
+    color: #3458f7;
+    border-radius: 60px;
+    position: fixed;
+    bottom: 25px;
+    left:30px;
+}
+.iconbody2{
+    transition: opacity .4s;
+}
+.dropdown:hover>.dropdown-menu {
+    display: block;
+  }
+.p-header{
+    font-size: 21px;
+}
+.bg-light{
+    padding: 0px;
+}
+
+.nav-link{
+    color: white!important;
+}
+.nav-link:hover{
+    color:#3458f7!important;
+    transition: .3s;
+}
+.navbar-nav .nav-link{
+    display: block;
+    padding: 13px 20px!important;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+    color:#3458f7!important;
+}
+.linkfooter:hover{
+    color:#3458f7;
+    text-decoration: none;
+}
+.linkfooter{
+    
+    text-decoration: none;
+    transition: .3s;
+    color: #b7b7b7;
+}
+.Ingense{
+    
+    padding-left: 55px;
+}
+.iconfooter{
+    float: left;
+}
+.bf{
+    display: block;
+    padding: 8px 0px;
+}
+.blue{
+    color: #3458f7;
+}
+footer{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #b7b7b7;
+    background-color: #212121;
+}
+.box-footer{
+    font-style: normal;
+}
+.formemail{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width:100%;
+    border-radius: 5px;
+    display: block;
+    padding: 12px 24px;
+}
+.sub{
+    margin-bottom: 20px;
+    display: inline-block;
+    padding: 12px 45px;
+    text-decoration: none;
+    background: #3458f7;
+    min-width: 180px;
+    border-radius: 5px; 
+    border: 1px #3458f7;
+    color:white;
+}
+.sub:hover{
+    transition: .3s;
+    text-decoration: none;
+    background: white;
+    min-width: 180px;
+    border-radius: 5px; 
+    border: 1px white;
+    color: #3458f7;
+}
+.copyright{
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+header{
+    background-size: cover;
+    padding-top: 30px; 
+    background-image: url('https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-content-bg01.jpg');
+}
+
+.booknow:hover{
+    transition: .3s;
+    padding: 14px 26px;
+    background: #3458f7;
+    color:white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 2px solid #3458f7;
+}
+.box-header{
+    padding: 165px 0;
+    text-align: center;
+    color:white;
+}
+.img1{
+    text-align: center
+}
+.booknowcenter{
+    text-align: center
+}
+.button-check{
+    padding: 17px 35px;
+    color:white;
+    text-decoration: none;
+    background: #3458f7;
+    display: inline-block;
+    border-radius: 5px; 
+}
+.button-check:hover{
+    transition: .3s;
+    padding: 17px 35px;
+    color:#3458f7;
+    text-decoration: none;
+    background: white;
+}
+.bgblue{
+    padding: 20px 0px;
+    background: #3458f7;
+}
+.boxhello{
+    padding: 50px 0;
+    color: white;
+}
+.bgFeaturedListings{
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.beginFeatured{
+    text-align: center
+}
+.fontFeatured{
+    font-family: 'Lato', sans-serif;
+    color: #7d7d7d;
+    font-size:18px;
+}
+.boxroom1{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-home-img01.jpg")
+}
+.boxroom2{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-home-img02.jpg")
+}
+.boxroom3{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-home-img03.jpg")
+}
+.boxroom4{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-home-img04.jpg")
+}
+.boxroom5{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-home-img05.jpg")
+}
+.boxroom6{
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-image: url("https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-home-img06.jpg")
+}
+.Featuredpdd{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.money{
+    margin-bottom: 0px;
+    display: block;
+    padding: 230px 0px 3px 20px;
+    font-size: 18px;
+    color:white;
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+}
+.where{
+    background-color: #f5f6f7;
+}
+.row .nopadding{
+    margin: 0px;
+    background: #e9f0f5;
+}
+.fontwhere{
+    padding-top: 5px;
+    display: block;
+    padding-top: 8px; 
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+    transition: .3s;
+}
+.fontwhere:hover{
+    text-decoration: none;
+    color: #3458f7;
+    font-size: 18px;
+    font-weight: 500;
+}
+.fontcenter{
+    color: #7d7d7d;
+    margin-bottom: 0px;
+    padding: 10px 0px;
+    font-size: 13px;
+}
+.locationicon{
+    padding-right: 4px;
+    color:#3458f7;
+}
+.fontlast{
+    color: #7d7d7d;
+    font-size: 13px;
+    padding-top: 12px;
+}
+.toppadding{
+    padding-top: 33px;
+}
+.place{
+    width: inherit;
+    position: relative;
+}
+
+.place{
+    position: relative;
+}
+.nameplace:hover{
+    text-decoration: none;
+    color: white;
+}
+.nameplace{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 700;
+    color:white;
+    position: absolute;
+    bottom: 21px;
+    left: 50px;
+}
+.bgExplorethePropertiesinTheseCities{
+    background: #f5f6f7;
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.placepd{
+    padding-bottom: 20px;
+}
+.textCities{
+    font-weight: 400;
+    color: #7d7d7d;
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+}
+.bgOurTeam{
+    padding-top: 80px;
+    padding-bottom: 70px; 
+}
+.boxtextourteam{
+    text-align: center;
+}
+.nameteam{
+    text-decoration: none;
+    color:black;
+    transition: .3s;
+    font-weight: 700;
+    font-size: 18px;
+    display: block;
+    padding: 14px 0;
+}
+.nameteam:hover{
+    text-decoration: none;
+    color:#3458f7;
+    transition: .3s;
+    font-weight: 700;
+    font-size: 18px;
+}
+.job{
+    color: #7d7d7d;
+    font-size: 13px;
+}
+.boxiconourteam{
+    text-align: center;
+}
+.iconourteam{
+    padding: 0 8px;
+}
+.paddingourteam{
+    padding-bottom: 25px;
+}
+.bgimgvideo{
+    position: relative;
+    background-image: url('https://template66411.motopreview.com/mt-demo/66400/66411/mt-content/uploads/2018/06/mt-1478-content-bg02.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: none!important;
+    padding: 250px 0px!important;
+}
+.play{
+    position: absolute;
+    padding: 0 41% ;
+    top:31%;
+    width: 100%;
+}
+.bgvideo{
+    background: #3458f7;
+    padding: 50px 0;
+}
+.number{
+    text-align: center;
+    color:white;
+}
+.textvideo{
+    text-align: center;
+    color: #b1bffa;
+}
+.Testimonials{
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.imgavatar{
+    
+    border-radius: 48px;
+}
+.boxTestimonials{
+    background: #f5f6f7;
+    padding: 40px 0;
+    font-size: 18px;
+}
+.text{
+    font-family: 'Lato', sans-serif;
+}
+.col-md-6{
+    padding-bottom: 10px;
+}
+.Testimonials-padding{
+    padding-bottom: 15px;
+}
+.textplast{
+    font-size: 13px;
+    color:#7d7d7d;
+}
+.linkLatestNews{
+    text-decoration: none;
+    font-weight: 700;
+    font-size:18px;
+    color:black;
+    display: block;
+    padding:15px 0;
+}
+.linkLatestNews:hover{
+    text-decoration: none;
+    font-weight: 700;
+    font-size:18px;
+    color:#3458f7;
+    transition: .3s;
+}
+.imglastestnews{
+    width: inherit;
+}
+.bgLatestNews{
+    background: #f5f6f7;
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.imgourteam{
+    width: 100%;
+}
